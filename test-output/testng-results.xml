@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20463" started-at="2020-10-29T21:16:20 BDT" finished-at="2020-10-29T21:16:41 BDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20463" started-at="2020-10-29T21:16:20 BDT" finished-at="2020-10-29T21:16:41 BDT">
+      <class name="com.Excel.LoginDataDrivenTest">
+        <test-method status="PASS" signature="Browser_setup()[pri:0, instance:com.Excel.LoginDataDrivenTest@87f383f]" name="Browser_setup" is-config="true" duration-ms="6819" started-at="2020-10-29T21:16:21 BDT" finished-at="2020-10-29T21:16:27 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Excel.LoginDataDrivenTest@87f383f]" name="login" duration-ms="13592" started-at="2020-10-29T21:16:27 BDT" finished-at="2020-10-29T21:16:41 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.Excel.LoginDataDrivenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

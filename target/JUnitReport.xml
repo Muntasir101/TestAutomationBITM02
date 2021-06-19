@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="18.78">
+<testcase classname="Login Test for Demo Opencart Application" name="Test Login function with valid email and password" time="18.365">
+<system-out><![CDATA[Given Open Browser..........................................................passed
+And Launch login page.......................................................passed
+When Enter valid email and valid password...................................passed
+Then Login successful.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
